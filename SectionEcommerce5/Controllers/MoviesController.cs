@@ -13,7 +13,7 @@ namespace SectionEcommerce5.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
-            ViewData["Name"] = "Ahmed Ayman";
+            ViewData["Name"] = "Ahmed Ayman adsadasdasdsa";
 
             return View();
         }
