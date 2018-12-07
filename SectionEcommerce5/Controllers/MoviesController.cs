@@ -21,5 +21,10 @@ namespace SectionEcommerce5.Controllers
         {
             return View();
         }
+
+        public IActionResult Welcome2()
+        {
+            return View();
+        }
     }
 }
